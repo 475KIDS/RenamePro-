@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 ʙᴏᴛ ɴᴀᴍᴇ : {}
-├👑 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Crude_X>Pʙ Aᴊᴀʏ</a> 
-├👨‍💻 ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Crude_X>Pʙ Aᴊᴀʏ</a>
+├👑 ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Crude_X>ᴘʙ ᴀᴊᴀʏ</a> 
+├👨‍💻 ᴘʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Crude_X>ᴘʙ ᴀᴊᴀʏ</a>
 ├📕 ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├✏️ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
 ├💾 ᴅᴀᴛᴀ ʙᴀsᴇ : <a href=https://cloud.mongodb.com>ᴍᴀɴɢᴏ ᴅʙ</a>
@@ -46,11 +46,11 @@ class mr(object):
 ╰───────────────⍟
                                 """
     HELP_TXT = """
-🌌 <b><u>HOW TO SET THUMBNILE</u></b>
+🌌 <b><u>sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ</u></b>
   
-•> /start a bot and send any picture to automatically set thumbnile.
-•> /delthumb use this command and delete your old thumbnile.
-•> /viewthumb use this command view your current thumbnile.
+• /start - sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴘɪᴄᴛᴜʀᴇ ɪᴛ ᴡɪʟʟ sᴀᴠᴇ ᴀs ᴛʜᴜᴍʙɴᴀɪʟ
+• /delthumb - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ
+• /viewthumb - ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ sᴇᴇ ᴄᴜʀʀᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 📑 <b><u>HOW TO SET CUSTOM CAPTION</u></b>
 •> /set_caption - set a custom caption
@@ -63,6 +63,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/PYRO_BOTZ_CHAT>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
