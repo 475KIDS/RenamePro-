@@ -29,7 +29,7 @@ async def rename(bot,update):
 async def doc(bot,update):
      type = update.data.split("_")[1]
      new_name = update.message.text
-     new_filename = new_name.split(":-")[1]
+     new_filename = new_name.split(":")[1]
      file_path = f"downloads/{new_filename}"
      file = update.message.reply_to_message
      ms = await update.message.edit("ᴛʀʏɪɴɢ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ")
